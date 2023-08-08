@@ -1,2 +1,2 @@
 # Weather-App
-global weather information
+Get weather information globally
